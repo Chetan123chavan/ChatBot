@@ -41,26 +41,3 @@ To get a local copy of this project, follow these steps:
 cd ai-chatbot-website
 
 
-3.**Open the project in your preferred code editor**.
-
-4.Open the index.html file in your browser to view the website.
-
-Usage
-Open the index.html file in any modern browser (Chrome, Firefox, Edge, etc.).
-Navigate through the sections to explore the AI Chatbot website.
-The chatbot integration can be added using JavaScript or a backend server (for future enhancements).
-Technologies Used
-HTML5: For the structure of the website.
-CSS3: For styling and layout, including Flexbox and Grid for responsive design.
-JavaScript: For interactive elements like the collapsible FAQ sections and form validation.
-Font Awesome: For social media icons and other vector icons.
-Google Fonts: For custom typography.
-Contributing
-Contributions are welcome! To contribute to this project, please follow these steps:
-
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes and commit them (git commit -am 'Add new feature').
-Push to your forked repository (git push origin feature-branch).
-Create a pull request.
-Please ensure your code adheres to the project's coding standards and includes tests if necessary.
