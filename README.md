@@ -60,11 +60,11 @@ The chatbot integration can be added using JavaScript or a backend server (for f
 **Contributing**
 
 Contributions are welcome! To contribute to this project, please follow these steps:
-
-**Fork the repository.**
+- Fork the repository
 - Create a new branch (git checkout -b feature-branch).
 - Make your changes and commit them (git commit -am 'Add new feature').
 - Push to your forked repository (git push origin feature-branch).
 - Create a pull request.
-- Please ensure your code adheres to the project's coding standards and includes tests if necessary.
+
+  Please ensure your code adheres to the project's coding standards and includes tests if necessary.
 
