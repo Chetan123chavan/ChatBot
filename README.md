@@ -35,13 +35,13 @@ To get a local copy of this project, follow these steps:
    git clone https://github.com/yourusername/ai-chatbot-website.git
 
 
-2.Navigate to the project folder:
+2.**Navigate to the project folder**:
 
  ```bash
 cd ai-chatbot-website
 
 
-3.Open the project in your preferred code editor.
+3.**Open the project in your preferred code editor**.
 
 4.Open the index.html file in your browser to view the website.
 
