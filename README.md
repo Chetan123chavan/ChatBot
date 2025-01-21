@@ -40,6 +40,7 @@ To get a local copy of this project, follow these steps:
  ```bash
 cd ai-chatbot-website
 
+
 3.Open the project in your preferred code editor.
 
 4.Open the index.html file in your browser to view the website.
